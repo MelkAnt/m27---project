@@ -59,21 +59,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-primary" />
-                <span className="text-gray-300">(81) 99999-9999</span>
+                <span className="text-gray-300">(81) 99723-7051</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary" />
-                <span className="text-gray-300">contato@m27.com</span>
+                <span className="text-gray-300">contatomdois7@gmail.com</span>
               </div>
             </div>
             
-            <div className="mt-6">
-              <h5 className="font-medium mb-3">Horário de Atendimento</h5>
-              <p className="text-gray-300 text-sm">
-                Segunda a Sexta: 9h às 18h<br />
-                Sábado: 9h às 14h
-              </p>
-            </div>
+            
           </div>
         </div>
 

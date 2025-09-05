@@ -148,11 +148,15 @@ const Cases = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="default" size="lg" className="group">
-              Quero Minha Consultoria Grátis
+              <a href="https://wa.me/5581997237051/" target="_blank" rel="noopener noreferrer">
+    Quero Minha Consultoria Grátis
+  </a>
               <ExternalLink className="w-5 h-5 group-hover:rotate-12 transition-transform" />
             </Button>
             <Button variant="outline" size="lg">
-              Ver Mais Cases
+              <a href="https://www.instagram.com/mdois7/" target="_blank" rel="noopener noreferrer">
+    Ver Mais Cases
+  </a>
             </Button>
           </div>
           

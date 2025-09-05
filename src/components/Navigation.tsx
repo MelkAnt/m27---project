@@ -30,7 +30,7 @@ const Navigation = () => {
     setIsOpen(false);
   };
 
-  const whatsappLink = "https://wa.me/5591999999999?text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento!";
+  const whatsappLink = "https://wa.me/5581997237051?text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento!";
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
